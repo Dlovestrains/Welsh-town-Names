@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f2d19a36
+license: CC-BY-NC-ND-4.0
+name: Welsh town Names
 type: townname
+url: https://github.com/Dlovestrains/Welsh-town-Names
 version: 6
